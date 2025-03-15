@@ -60,13 +60,13 @@ GitHub: Samanjey
 
 
 ### 📊 GitHub Stats
-![SamJay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamJayOwino&show_icons=true&theme=react)
+![SamJay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samanjey&show_icons=true&theme=react)
 
 ### 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamJayOwino&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samanjey&layout=compact&theme=react)
 
 ### 🏄‍♂️ Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamJayOwino&theme=react-dark)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Samanjey&theme=react-dark)
 
 
 
