@@ -58,15 +58,3 @@ Email: samsonochieng167@gmail.com
 whatsapp: +254112993879
 GitHub: Samanjey
 
-
-### 📊 GitHub Stats
-![Samanjey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samanjey&show_icons=true&theme=react&cache_seconds=1000)
-
-### 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samanjey&layout=compact&theme=react&cache_seconds=1000)
-
-### 🏄‍♂️ Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Samanjey&theme=react-dark&cache_seconds=1000)
-
-
-
