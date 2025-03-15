@@ -58,3 +58,16 @@ Email: samsonochieng167@gmail.com
 whatsapp: +254112993879
 GitHub: Samanjey
 
+
+### 🧑‍💻 Profile Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=Samanjey&color=blue)
+### 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
+### 🔥 GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Samanjey&theme=react)](https://git.io/streak-stats)
+
