@@ -72,6 +72,9 @@ GitHub: Samanjey
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
 ### 🔥 GitHub Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Samanjey&theme=react)](https://git.io/streak-stats)
+### 🏆 GitHub Achievements
+![Trophy](https://github-profile-trophy.vercel.app/?username=Samanjey&theme=dracula)
+
 
 
 
