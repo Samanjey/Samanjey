@@ -1,5 +1,4 @@
-                                  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 👋 Hi, I'm Samson Owino
 
@@ -71,5 +70,8 @@ GitHub: Samanjey
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
+### 🔥 GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Samanjey&theme=react)](https://git.io/streak-stats)
+
 
 
